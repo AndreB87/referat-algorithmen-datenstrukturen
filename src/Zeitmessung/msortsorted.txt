@@ -1,0 +1,6 @@
+msort;100;0;
+msort;200;0;
+msort;500;1;
+msort;1000;1;
+msort;2000;5;
+msort;5000;11;

@@ -1,0 +1,6 @@
+qsort;random;100;3;
+qsort;random;200;1;
+qsort;random;500;2;
+qsort;random;1000;3;
+qsort;random;2000;5;
+qsort;random;5000;17;

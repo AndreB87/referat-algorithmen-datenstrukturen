@@ -1,0 +1,6 @@
+insertionS;100;1;
+insertionS;200;1;
+insertionS;500;6;
+insertionS;1000;28;
+insertionS;2000;115;
+insertionS;5000;760;

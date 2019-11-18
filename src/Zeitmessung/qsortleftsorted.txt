@@ -1,0 +1,6 @@
+qsort;left;100;1;
+qsort;left;200;3;
+qsort;left;500;19;
+qsort;left;1000;80;
+qsort;left;2000;316;
+qsort;left;5000;2005;

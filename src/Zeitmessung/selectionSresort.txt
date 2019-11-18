@@ -1,0 +1,6 @@
+selectionS;100;0;
+selectionS;200;3;
+selectionS;500;17;
+selectionS;1000;62;
+selectionS;2000;231;
+selectionS;5000;1428;
